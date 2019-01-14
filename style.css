@@ -161,6 +161,13 @@ img:hover {
     padding: 4px 8px 0px 3px;
     float: left;
     color: rgb(218, 175, 4);
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+
+}
+#header .firstLetter:hover {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 #header p {
     font-size: 1.3em;
