@@ -16,7 +16,7 @@ body {
     width: 100vw;
     position: absolute;
     top: 0px;
-    box-shadow: 1px 1px rgb(225, 193, 10)
+    box-shadow: 1px 1px rgb(193, 164, 4)
     
     
 }
@@ -160,7 +160,7 @@ img:hover {
     line-height: 64px;
     padding: 4px 8px 0px 3px;
     float: left;
-    color: rgb(238, 197, 32);
+    color: rgb(218, 175, 4);
 }
 #header p {
     font-size: 1.3em;
